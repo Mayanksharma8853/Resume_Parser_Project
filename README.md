@@ -45,8 +45,6 @@
 1. Install the required libraries:
    ```bash
    pip install streamlit
-2. Run the Application
    streamlit run app.py
-3.Upload a PDF resume and view the extracted details.
 
 <p align="center"> <img src="assets/ui_home.png" width="800"/> <br/><br/> <img src="assets/ui_result.png" width="800"/> </p>
