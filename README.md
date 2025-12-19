@@ -45,6 +45,9 @@
 1. Install the required libraries:
    ```bash
    pip install streamlit
+
+2. Run the application:
+   ```bash
    streamlit run app.py
 
 <p align="center"> <img src="assets/ui_home.png" width="800"/> <br/><br/> <img src="assets/ui_result.png" width="800"/> </p>
